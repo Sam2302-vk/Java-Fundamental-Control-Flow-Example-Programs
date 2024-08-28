@@ -1,3 +1,5 @@
+//Check whether the number is positive or negative or zero
+
 import java.util.*;
 public class Demo {
   public static void main(String[] args) {
