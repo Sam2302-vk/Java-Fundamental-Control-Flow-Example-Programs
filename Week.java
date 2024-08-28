@@ -1,3 +1,5 @@
+//Week based on the number
+
 import java.util.*;
 public class Week {
     
@@ -33,8 +35,7 @@ public class Week {
               case 7:
               weekDay="Sunday";
               break;
-
-
+ 
               default:
               weekDay="Invalid Week day";
 
