@@ -1,3 +1,5 @@
+//print the number from 1 to 3 ,demonstrate that the block executed atleast once
+
 import java.util.*;
 public class Block {
     public static void main(String[] args) {
